@@ -206,17 +206,14 @@ Book-Sales-Analysis/
 
 **Swastik Kumar**
 
-Computer Engineering Student
+**B.E. Computer Engineering**
 
-Skills:
-- Power BI
-- SQL
-- Python
-- Excel
-- Power Query
-- DAX
-- Data Analytics
+**Data Analyst | Excel | SQL | Power BI | Python | Google Apps Script**
 
----
+GitHub: https://github.com/SwastikAnalytics
 
-## ⭐ If you found this project useful, don't forget to Star this repository.
+linkedin: https://www.linkedin.com/in/swastik-kumar-01sep
+
+
+
+
