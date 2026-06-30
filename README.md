@@ -188,13 +188,7 @@ Book-Sales-Analysis/
 
 # 📷 Dashboard Screenshot
 
-> Upload your dashboard screenshot inside the **Images** folder and replace the link below.
-
-```md
-![Book Sales Dashboard](Images/Dashboard.png)
-```
-
----
+<img src="images/your-image-name.png" alt="Project Architecture" width="500">
 
 # 🚀 Future Improvements
 
