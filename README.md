@@ -188,7 +188,7 @@ Book-Sales-Analysis/
 
 # 📷 Dashboard Screenshot
 
-<img src="images/your-image-name.png" alt="Project Architecture" width="500">
+<img src="image/Book sales Dashboard.png" alt="Project Architecture" width="500">
 
 # 🚀 Future Improvements
 
